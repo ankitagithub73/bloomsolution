@@ -62,9 +62,7 @@ color: #E5840F;
 
 /* Tablet */
 @media (max-width: 991px) {
-  .hero-content {
-    text-align: center;
-  }
+
 
   .hero-content h1 {
     font-size: 42px;
