@@ -10,7 +10,7 @@ import {
 import "./Footer.css";
 const Footer = () => {
   return (
-    <footer className="footer py-3">
+    <footer className="footer py-3 mt-5">
       <div className="container pt-3">
         <div className="row gy-4">
           {/* Company Info */}
